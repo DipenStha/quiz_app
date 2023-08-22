@@ -89,6 +89,14 @@ class _HomeScreenState extends State<HomeScreen> {
       option3: "Guitar",
       option4: "Pipe organ",
       correctOption: "Pipe organ",
+    ),
+    QNA(
+      question: "Which instrument is known as the 'king of instruments'?",
+      option1: "Piano",
+      option2: "Violin",
+      option3: "Guitar",
+      option4: "Pipe organ",
+      correctOption: "Pipe organ",
     )
   ];
 
